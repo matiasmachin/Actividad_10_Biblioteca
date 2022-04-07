@@ -27,7 +27,7 @@ public class Libro {
 		this.cantidadp= cantidadp;
 		
 	}
-
+     // mETODOS DE CAPTURA Y VISUALIZACION DE DATOS
 	
 	//Metodos getters y setters
 	
